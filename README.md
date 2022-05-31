@@ -13,5 +13,5 @@ Skills: / REACT.js  / JS / Node.js / HTML / CSS /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KhomotsoTibane&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KhomotsoTibane)  
+
 
