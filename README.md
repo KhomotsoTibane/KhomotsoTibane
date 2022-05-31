@@ -1,8 +1,8 @@
-### Hi there 👋, I am Khomotso Tibane.
-#### Web Developer
+## Hi there 👋, I am Khomotso Tibane.
+### Web Developer.
 I'm Khomotso, I am a Web Developer. I enjoy learning languages and frameworks like React and Nodejs, I am also interested in learning about the cloud.
-
-##Skills and Experience 
+ 
+#### Skills and Experience:
 REACT.js
 Node.js 
 HTML | CSS | JS
