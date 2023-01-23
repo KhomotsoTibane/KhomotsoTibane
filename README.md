@@ -4,7 +4,7 @@ Nice to meet you, I am Khomotso Tibane.
 
 ## Who Am I? 
 
-- 🤓 Developer 
+- 🤓 Frontend Developer 
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
